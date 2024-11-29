@@ -4,4 +4,4 @@ course in school. These projects were originally developed for various assignmen
 These minor projects cover various basic HTML concepts, which I explored as 
 part of my coursework. You’ll find a variety of code examples that I wrote as a HTML newbie back then.
 
-**Note**: These code was written some time ago in mid 2023 (between June and JUly), I now decided to share them here in a remote repo.
+**Note**: These code were written some time ago in mid 2023 (between June and JUly), I now decided to share them here in a remote repo.
